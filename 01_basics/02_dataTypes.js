@@ -14,7 +14,10 @@
 // undefined => meaing value is not assigned
 // symbol => unique
 
-// obect
+// object
 
 console.log(typeof null);        // undefined
 console.log(typeof undefined);   // object
+
+
+
